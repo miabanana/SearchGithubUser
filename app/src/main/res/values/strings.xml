@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchGithubUser</string>
+    <string name="search_hint">user name</string>
+    <string name="button_search">Search</string>
+    <string name="message_error">Failed! Please try again later.</string>
+    <string name="message_no_network_connected">Please check network state and try again.</string>
+    <string name="message_no_result">No searching result.</string>
+</resources>
